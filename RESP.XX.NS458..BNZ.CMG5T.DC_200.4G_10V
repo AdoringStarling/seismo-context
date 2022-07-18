@@ -10,7 +10,7 @@ B052F22     Start date:  1998-01-01T02:45:10.000000Z
 B052F23     End date:    No Ending Time
 #		=======================================
 #		+               +--------------------------------------------+                +
-#		+               |   Response (Poles & Zeros), NS458 ch BNZ   |                +
+#		+               |   Response (Poles & Zeros), 1653 ch HHZ   |                +
 #		+               +--------------------------------------------+                +
 #
 B053F03     Transfer function type:                A [Laplace Transform (Rad/sec)]
@@ -31,7 +31,7 @@ B053F15-18    2 -1.946000e+03  0.000000e+00  0.000000E+00  0.000000E+00
 B053F15-18    3 -5.378000e+03  0.000000e+00  0.000000E+00  0.000000E+00
 #		
 #		+                  +---------------------------------------+                  +
-#		+                  |       Channel Gain, NS458 ch BNZ      |                  +
+#		+                  |       Channel Gain, 1653 ch HHZ        |                  +
 #		+                  +---------------------------------------+                  +
 #		
 B058F03     Stage sequence number:                 1
@@ -40,7 +40,7 @@ B058F05     Frequency of gain:                     1.000000e+00 HZ
 B058F06     Number of calibrations:                0
 #		
 #		+               +-------------------------------------------+                 +
-#		+               |   Response (Coefficients), NS458 ch BNZ   |                 +
+#		+               |   Response (Coefficients), 1653 ch HHZ     |                 +
 #		+               +-------------------------------------------+                 +
 #		
 B054F03     Transfer function type:                D
@@ -54,7 +54,7 @@ B054F10     Number of denominators:                0
 B054F08-09    0  1.000000e+00  0.000000E+00
 #		
 #		+                      +------------------------------+                       +
-#		+                      |   Decimation, NS458 ch BNZ   |                       +
+#		+                      |   Decimation, 1653 ch HHZ   |                       +
 #		+                      +------------------------------+                       +
 #		
 B057F03     Stage sequence number:                 2
@@ -65,7 +65,7 @@ B057F07     Estimated delay (seconds):             0.00000E+00
 B057F08     Correction applied (seconds):          0.00000E+00
 #		
 #		+                  +---------------------------------------+                  +
-#		+                  |       Channel Gain, NS458 ch BNZ      |                  +
+#		+                  |       Channel Gain, 1653 ch HHZ      |                  +
 #		+                  +---------------------------------------+                  +
 #		
 B058F03     Stage sequence number:                 2
@@ -74,7 +74,7 @@ B058F05     Frequency of gain:                     1.000000e+00 HZ
 B058F06     Number of calibrations:                0
 #		
 #		+                  +---------------------------------------+                  +
-#		+                  |       Channel Gain, NS458 ch BNZ      |                  +
+#		+                  |       Channel Gain, 1653 ch HHZ      |                  +
 #		+                  +---------------------------------------+                  +
 #		
 B058F03     Stage sequence number:                 0
